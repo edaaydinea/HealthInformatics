@@ -1,55 +1,45 @@
-# Detailed README
+# Health Informatics Specialization
 
-## Specializations
+- **Where:** Coursera
+- **University/Institute:** Johns Hopkins University
+- **Status:** In Progress
+- **Link:** <https://www.coursera.org/specializations/health-informatics>
 
-### [Specialization Name]
-- **Where:** [Platform where you are taking this specialization]
-- **University/Institute:** [Name of the University]
-- **Status:** [Completed / In Progress / Not Started]
+## Courses in this Specialization
 
-#### Courses in this Specialization
-1. Course Name
-   - **Status:** [Completed / In Progress / Not Started]
-   - **Link:** [URL to course page, if available]
+1. Course 1: The Social and Technical Context of Health Informatics
+   - **Status:** In Progress
+   - **Link:** <https://www.coursera.org/learn/the-socio-technical-health-informatics-context?specialization=health-informatics>
 
-2. Course Name
-   - **Status:** [Completed / In Progress / Not Started]
-   - **Link:** [URL to course page, if available]
+2. Course 2: Leading Change in Health Informatics
+   - **Status:** Not Started
+   - **Link:** <https://www.coursera.org/learn/leading-change-health-informatics?specialization=health-informatics>
+  
+3. Course 3: The Outcomes and Interventions of Health Informatics
+   - **Status:** Not Started
+   - **Link:** <https://www.coursera.org/learn/the-outcomes-and-interventions-of-health-informatics?specialization=health-informatics>
+  
+4. Course 4: The Data Science of Health Informatics
+   - **Status:** Not Started
+   - **Link:** <https://www.coursera.org/learn/the-data-science-of-health-informatics?specialization=health-informatics>
+  
+5. Course 5: Culminating  Project in Health Informatics
+   - **Status:** Not Started
+   - **Link:** <https://www.coursera.org/learn/culminating-project-course-in-health-informatics?specialization=health-informatics>
 
 ...
 
 ## Courses
 
-### [Course Name]
-- **Where:** [Platform where you are taking this course]
-- **University:** [Name of the University]
-- **Status:** [Completed / In Progress / Not Started]
-- **Link:** [URL to course page, if available]
+### Course 1: The Social and Technical Context of Health Informatics
 
-### [Course Name]
-- **Where:** [Platform where you are taking this course]
-- **University:** [Name of the University]
-- **Status:** [Completed / In Progress / Not Started]
-- **Link:** [URL to course page, if available]
-
-...
-
-## Other Activities
-
-### [Activity Name]
-- **Where:** [Platform or location of the activity]
-- **Status:** [Completed / In Progress / Not Started]
-- **Link:** [URL to activity page, if available]
-
-### [Activity Name]
-- **Where:** [Platform or location of the activity]
-- **Status:** [Completed / In Progress / Not Started]
-- **Link:** [URL to activity page, if available]
+- **Link:** 
+  - **Week1:**  <https://github.com/edaaydinea/HealthInformatics/blob/main/Course1/Week1.md>
+  - **Week2:** <https://github.com/edaaydinea/HealthInformatics/blob/main/Course1/Week1.md>
 
 ...
 
 ## Certificates
 
-- **[Certificate Name]**
-  - **Where:** [Platform where the certificate was earned]
+- **Course 1: The Social and Technical Context of Health Informatics**
   - **Link:** [URL to certificate, if available]
