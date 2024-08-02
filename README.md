@@ -35,7 +35,9 @@
 
 - **Link:** 
   - **Week1:**  <https://github.com/edaaydinea/HealthInformatics/blob/main/Course1/Week1.md>
-  - **Week2:** <https://github.com/edaaydinea/HealthInformatics/blob/main/Course1/Week1.md>
+  - **Week2:** <https://github.com/edaaydinea/HealthInformatics/blob/main/Course1/Week2.md>
+  - **Week3:** <https://github.com/edaaydinea/HealthInformatics/blob/main/Course1/Week3.md>
+  - **Week4:** <https://github.com/edaaydinea/HealthInformatics/blob/main/Course1/Week4.md>
 
 ...
 
