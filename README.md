@@ -8,7 +8,7 @@
 ## Courses in this Specialization
 
 1. Course 1: The Social and Technical Context of Health Informatics
-   - **Status:** In Progress
+   - **Status:** Completed
    - **Link:** <https://www.coursera.org/learn/the-socio-technical-health-informatics-context?specialization=health-informatics>
 
 2. Course 2: Leading Change in Health Informatics
@@ -43,5 +43,4 @@
 
 ## Certificates
 
-- **Course 1: The Social and Technical Context of Health Informatics**
-  - **Link:** [URL to certificate, if available]
+- [**Course 1: The Social and Technical Context of Health Informatics**](https://coursera.org/share/b700e25856d088396c9329b9bb222176)
